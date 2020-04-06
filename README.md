@@ -14,3 +14,16 @@ Primera vez:
     git commit -m "Coloco mensaje entre comillas, por que hice el cambio"
 7 - Subir al repositorio web
     git push
+
+    #Orden de los comandos
+
+    a- git clone (unica vez)
+
+        Iteracion
+
+    b- git add . 
+    c- git commit -m "mensaje"
+
+        Solo para subir a la web
+
+    d- git push
